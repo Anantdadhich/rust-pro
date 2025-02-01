@@ -1,5 +1,4 @@
 use bevy::prelude::*;
-use bevy::transform::commands;
 
 use crate::alien;
 use crate::player;
@@ -21,5 +20,5 @@ impl Plugin for GamePlugin {
 }
 
 fn setup_scene(mut commands: Commands) {
-    commands.spawn(Camera2dBundle { ..default() })
+    commands.spawn(Camera2dBundle { ..default() });
 }
