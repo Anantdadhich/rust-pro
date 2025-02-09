@@ -1,6 +1,6 @@
-### Creating game in rust with bevy
+# Game in rust with bevy engine
 
-Created Space Invaders Game in rust with bevy engine. In future Thinking to make this game as solana Blockchain game.
+Created Space Invaders Game in rust with bevy engine. In future Thinking to make more cool games or this game as solana Blockchain game.
 
 ## 🛠️ Installation
 
@@ -31,3 +31,8 @@ To run the game, use:
 - Push to your branch (git push origin feature-name)
 
 - Open a Pull Request
+
+  ## Screenshot
+
+  ![Screenshot 2025-02-09 222907](https://github.com/user-attachments/assets/1489caec-87dd-444b-b849-c446eadde303)
+
